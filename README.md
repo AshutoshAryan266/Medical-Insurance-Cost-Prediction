@@ -4,8 +4,9 @@ A Machine Learning web application that predicts an individual's medical insuran
 
 The project covers the complete Machine Learning workflow, from data preprocessing and exploratory data analysis (EDA) to model training and deployment using Streamlit.
 
----
-
+## 🌐 Live Demo
+Try the deployed application here:
+    https://ashutosharyan266-medical-insurance-cost-prediction-app-vfjktw.streamlit.app/
 ## 📌 Project Overview
 
 This project predicts medical insurance costs using a **Linear Regression** model trained on the popular Medical Insurance dataset.
